@@ -1,0 +1,1 @@
+I will be using Kali Linux through a VMware client on my Windows machine. I have it all set up and ready to go.
